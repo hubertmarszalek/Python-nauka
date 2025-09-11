@@ -11,6 +11,7 @@ Celem repozytorium jest dokumentowanie postępów i utrwalanie wiedzy.
 
 ## 📂 Struktura repozytorium
 
+- `mini-projekty/` - mini projekty
 - `rozdział 2/` – zmienne i typy danych
 - `rozdział 3/` – listy 
 - `rozdział 4/` - listy - c.d
